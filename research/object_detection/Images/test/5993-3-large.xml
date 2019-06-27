@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>5993-3-large.jpg</filename>
+	<path>/home/george/Desktop/Images/5993-3-large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1248</width>
+		<height>832</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandwich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>194</ymin>
+			<xmax>777</xmax>
+			<ymax>809</ymax>
+		</bndbox>
+	</object>
+</annotation>

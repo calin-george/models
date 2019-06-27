@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>50250077-sous-la-baguette-sandwich-charcuterie-avec-du-jambon-du-fromage-les-tomates-et-la-laitue-isolé-sur-un-.jpg</filename>
+	<path>/home/george/Desktop/Images/50250077-sous-la-baguette-sandwich-charcuterie-avec-du-jambon-du-fromage-les-tomates-et-la-laitue-isolé-sur-un-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandwich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>42</ymin>
+			<xmax>1255</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+</annotation>

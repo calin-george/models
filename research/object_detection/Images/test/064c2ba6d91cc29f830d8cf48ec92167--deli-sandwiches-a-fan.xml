@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>064c2ba6d91cc29f830d8cf48ec92167--deli-sandwiches-a-fan.jpg</filename>
+	<path>/home/george/Desktop/Images/064c2ba6d91cc29f830d8cf48ec92167--deli-sandwiches-a-fan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>617</width>
+		<height>925</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandwich</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>17</ymin>
+			<xmax>617</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Teriyaki-Chicken-Sub-Sandwiches-1.jpg</filename>
+	<path>/home/george/Desktop/Images/Teriyaki-Chicken-Sub-Sandwiches-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandwich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>431</ymin>
+			<xmax>792</xmax>
+			<ymax>942</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>6d85196f-6e8c-4010-9617-e78494e9bd0a.jpg</filename>
+	<path>/home/george/Desktop/Images/6d85196f-6e8c-4010-9617-e78494e9bd0a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandwich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>125</ymin>
+			<xmax>736</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>
